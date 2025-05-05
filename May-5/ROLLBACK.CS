@@ -1,0 +1,6 @@
+//ROLLBACK ON MISTAKE:
+
+BEGIN TRANSACTION
+DELETE FROM Students WHERE Marks<60;
+--Realized if it is mistake
+ROLLBACK 
