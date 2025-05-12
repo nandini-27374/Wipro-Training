@@ -30,7 +30,9 @@ class Program
     {
         FictionBook fb = new FictionBook();
         fb.Read();
+        fb.GetInfo();
         ScienceBook sb = new ScienceBook();
         sb.Read();
+        sb.GetInfo();
     }
 }
