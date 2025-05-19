@@ -202,6 +202,6 @@ namespace WebApplication8.Migrations
 
 */
 
-//the grade column and its data will be losed in the table after refreshing the SQL Server Object Explorer
+//the Product column and its data will be losed in the table after refreshing the SQL Server Object Explorer
 
 
