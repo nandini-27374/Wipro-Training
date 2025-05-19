@@ -169,7 +169,7 @@ namespace WebApplication8.Migrations
 }
 */
 
-// see the wether the Product column in the table is updated or not in the SQL Server Object Explorer after refreshing it
+// see the wether the Category column in the table is updated or not in the SQL Server Object Explorer after refreshing it
 
 //then give below commands
 
