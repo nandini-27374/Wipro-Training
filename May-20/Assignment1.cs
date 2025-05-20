@@ -103,3 +103,24 @@ class SortingComparison
         }
     }
 }
+/*
+
+Output:
+
+Original Array:
+82 6 46 67 53 27 92 37 17 8 23 67 33 95 66 93 24 90 13 8
+
+Bubble Sort:
+6 8 8 13 17 23 24 27 33 37 46 53 66 67 67 82 90 92 93 95
+Time: 2136 ticks
+
+Selection Sort:
+6 8 8 13 17 23 24 27 33 37 46 53 66 67 67 82 90 92 93 95
+Time: 2111 ticks
+
+Insertion Sort:
+6 8 8 13 17 23 24 27 33 37 46 53 66 67 67 82 90 92 93 95
+Time: 3336 ticks
+
+All three sorts have O(n^2) time complexity.
+*/
