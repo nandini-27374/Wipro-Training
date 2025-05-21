@@ -45,7 +45,6 @@ class Program
 }
 
 /*
- * 
 Output:
 
 Coins used: 500 200 100 50 20 10
