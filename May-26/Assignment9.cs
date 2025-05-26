@@ -1,6 +1,6 @@
 /*
 
-Exception Aggregation – Parallel Task Errors
+9. Exception Aggregation – Parallel Task Errors
 Task:
 Start 5 tasks using Task.WhenAll() .
 Two of them should throw exceptions.
