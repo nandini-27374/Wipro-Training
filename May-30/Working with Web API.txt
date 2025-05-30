@@ -1,0 +1,17 @@
+Step-1: Create the new Project Web API. 
+
+Step-2: Add controller for the Web API, this time we have to create controller for the API (API Controller with read/write actions.
+
+Step-3: We will see the ValuesController and add it.
+
+Step-4: Change the POST, PUT, DELETE methods,add some string type of sentence.
+
+Step-5: Run this code, you will see the screen containing WebAPIExercise.
+
+Step-6: Copy the link (http://localhost:5131/swagger/index.html)
+
+Step-7: After login into postman paste this link and change it to http://localhost:5131/api/values .
+
+Step-8: You can change the PUT, POST, DELETE on left side which you want to print then, it will print the sentences that you given in the controller.
+
+	Like this " This is the message for PUT ".
