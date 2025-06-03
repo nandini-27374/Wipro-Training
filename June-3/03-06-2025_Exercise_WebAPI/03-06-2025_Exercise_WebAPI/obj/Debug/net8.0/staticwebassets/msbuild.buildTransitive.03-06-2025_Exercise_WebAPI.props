@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\03-06-2025_Exercise_WebAPI.props" />
+</Project>
